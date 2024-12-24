@@ -9,4 +9,6 @@ Boolean Algebra Tutorials
 
 # [A * 1 = A](a_times_1_equals_a/a_times_1_equals_a.pdf)
 
+# [A * 0 = 0](a_times_0_equals_0/a_times_0_equals_0.pdf)
+
 ---
