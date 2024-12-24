@@ -7,4 +7,6 @@ Boolean Algebra Tutorials
 
 # [A + 0 = A](a_plus_0_equals_a/a_plus_0_equals_a.pdf)
 
+# [A * 1 = A](a_times_1_equals_a/a_times_1_equals_a.pdf)
+
 ---
