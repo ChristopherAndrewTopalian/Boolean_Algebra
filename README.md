@@ -12,3 +12,5 @@ Boolean Algebra Tutorials
 # [A * 0 = 0](identity_law/a_times_0_equals_0/a_times_0_equals_0.pdf)
 
 ---
+
+# [A + A = A](idempotent_law/a_plus_a_equals_a/a_plus_a_equals_a.pdf)
